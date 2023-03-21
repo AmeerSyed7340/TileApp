@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">FIM</string>
+
+    <string name="Shopping_cart">Shopping Cart</string>
+    <string name="product1">Product 1</string>
+    <string name="product2">Product 2</string>
+
+    <string name="quantity1">Quantity:</string>
+    <string name="quantity2">Quantity:</string>
+
+    <string name="Sub_total">SubTotal:</string>
+
+    <string name="button4">CheckOut</string>
+    <string name="button1">X</string>
+    <string name="button2">X</string>
+
+    <string name="product_name">Product Name</string>
+    <string name="category">Category</string>>
+    <string name="type">Type</string>
+    <string name="species">Species</string>
+    <string name="size">Size</string>
+    <string name="color">Color</string>
+    <string name="cost">Price</string>
+    <string name="brand">Brand</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="quantity">Quantity</string>
+    <string-array name="amount">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Select a Store</item>
+        <item>The Store Depot</item>
+        <item>The Floor Store</item>
+        <item>The Store of Floors</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Select Category</item>
+        <item>Tile</item>
+        <item>Stone</item>
+        <item>Wood</item>
+        <item>Laminate</item>
+        <item>Vinyl</item>
+    </string-array>
+    <string-array name="tileTypes">
+        <item>Select Tile Type</item>
+        <item>Porcelain</item>
+        <item>Ceramic</item>
+        <item>Resin</item>
+    </string-array>
+    <string-array name="stoneTypes">
+        <item>Select Stone Type</item>
+        <item>Marble</item>
+        <item>Pebble</item>
+        <item>Slate</item>
+    </string-array>
+    <string-array name="woodTypes">
+        <item>Select Wood Type</item>
+        <item>Solid</item>
+        <item>Engineered</item>
+        <item>Bamboo</item>
+    </string-array>
+    <string-array name="laminateTypes">
+        <item>Select Laminate Type</item>
+        <item>Regular Laminate</item>
+        <item>Water Resistant</item>
+    </string-array>
+    <string-array name="vinylTypes">
+        <item>Select Vinyl Type</item>
+        <item>Water Resistant Vinyl</item>
+        <item>Water Proof</item>
+    </string-array>
+    <string-array name="species">
+        <item>Select Wood Species</item>
+        <item>Oak</item>
+        <item>Hickory</item>
+        <item>Maple</item>
+    </string-array>
+
+    <string name="title_activity_product_display">ProductDisplayActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_species">Enter Species</string>
+    <string name="enter_color">Enter Color</string>
+    <string name="enter_brand">Enter Brand</string>
+    <string name="enter_type">Enter Type</string>
+    <string name="enter_information_about_the_product">Enter Information about the Product</string>
+    <string name="enter_information_about_the_product_view">Enter Information About the Product</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="submit">Submit</string>
+    <string name="wood_floor_1">Wood Floor 1</string>
+    <string name="woodfloor_3">WoodFloor 3</string>
+    <string name="woodfloor_2">WoodFloor 2</string>
+    <string name="woodfloor_1">WoodFloor 1</string>
+    <string name="browse_our_products">Browse Our Products</string>
+    <string name="add_product">add product</string>
+    <string name="search">search</string>
+
+
+</resources>
